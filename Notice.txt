@@ -1,0 +1,6 @@
+/*******************************************************************************
+* From ELOQUENT JAVASCRIPT A Modern Introduction to Programming, Third Edition *
+* By Marijn Haverbeke                                                          *
+* Copyright (c) 2019, Marijn Haverbeke                                         *
+* All rights reserved                                                          *
+********************************************************************************/
